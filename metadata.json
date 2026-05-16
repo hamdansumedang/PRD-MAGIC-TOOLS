@@ -1,0 +1,8 @@
+{
+  "name": "PRD AI Architect",
+  "description": "Professional PRD generator powered by Gemini, featuring the Asy-Syifaa framework and markdown exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
